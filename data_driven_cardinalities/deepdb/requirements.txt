@@ -46,7 +46,7 @@ scikit-learn
 scipy
 SecretStorage
 six
-sklearn
+#sklearn
 sqlparse
 statsmodels
 sympy
